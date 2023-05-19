@@ -12,6 +12,7 @@
 	<img align ="center" alt="JavaSrcipt" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
 Student of Engineering and Computer Science
+
 [![Kelden GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
