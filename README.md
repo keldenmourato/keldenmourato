@@ -11,7 +11,7 @@
 	<img align ="center" alt="CSS3" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 	<img align ="center" alt="JavaSrcipt" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
-Student of Engineering and Computer Science
+Student of Engineering and Computer Science <br>
 
 ![kmourato GitHub stats](https://github-readme-stats.vercel.app/api?username=keldenmourato&show_icons=true&theme=transparent)
 
