@@ -1,4 +1,8 @@
 ### 					 Hey There! I am Kelden Mourato 👋
+
+Network Administrator 
+<br>
+Student of Computer Science & Engineering
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelden-mourato-789703276?trk=contact-info)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com/keldenmourato)
 [![Instagram](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](www.kmourato.netlify.app)
@@ -12,9 +16,7 @@
 	<img align ="center" alt="JavaSrcipt" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
 
-Network Administrator 
-<br>
-Student of Computer Science & Engineering
+
 
 ![kmourato GitHub stats](https://github-readme-stats.vercel.app/api?username=keldenmourato&show_icons=true&theme=transparent)
 
