@@ -14,7 +14,7 @@
 
 Network Administrator 
 <br>
-Student of Engineering and Computer Science
+Student of Computer Science & Engineering
 
 ![kmourato GitHub stats](https://github-readme-stats.vercel.app/api?username=keldenmourato&show_icons=true&theme=transparent)
 
