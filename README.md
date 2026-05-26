@@ -1,7 +1,5 @@
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=keldenmourato&color=blue&style=for-the-badge)
-
 # Hey There! I am Kelden Mourato 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelden-mourato-b87189330)
