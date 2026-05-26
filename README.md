@@ -1,9 +1,28 @@
-### Hey There! I am Kelden Mourato 👋
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=keldenmourato&color=blue&style=for-the-badge)
+
+# Hey There! I am Kelden Mourato 👋
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelden-mourato-b87189330)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keldenmourato)
-[![Website](https://img.shields.io/website-up-down-green-red/http/kmourato.netlify.app.svg)](https://kmourato.netlify.app)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://kmourato.netlify.app)
 
-## Use to Code
+</div>
+
+---
+
+## 👤 About Me
+
+- 🎓 Computer Science Engineer
+- 🌐 Network Administrator
+- 💼 Disponível para projectos freelance
+- 📫 Contacto: keldenmourato@gmail.com
+
+---
+
+## 🚀 Use to Code
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -16,11 +35,27 @@
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br>
-<br>
 
-Network Administrator
-<br>
-Computer Science Engineer
-<br>
+---
 
-![kmourato GitHub stats](https://github-readme-stats.vercel.app/api?username=keldenmourato&show_icons=true&theme=transparent)
+## 🛠️ Tools & IDEs
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</div><br>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=keldenmourato&theme=transparent)](https://git.io/streak-stats)
+
+
+</div>
+
