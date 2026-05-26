@@ -17,7 +17,7 @@
 
 Network Administrator 
 <br>
-Student of Computer Science & Engineering
+Computer Science Engineer 
 <br>
 
 
