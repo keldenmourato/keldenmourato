@@ -53,7 +53,7 @@
 |---|---|
 | 🔧 Alcides Auto Clinic — Site institucional de uma oficina automotiva em Beira, Moçambique | [Ver Demo](https://keldenmourato.github.io/alcidesautoclinic/) |
 | 🎬 IMDB Website using OMDB API — Clone do IMDB com pesquisa de filmes e séries | [Ver Demo](https://leccmovies.netlify.app/) |
-
+| 🏫 School Network — uma organização dedicada à construção de salas de aula para crianças em Moçambique que estudam ao ar livre. | [Ver Demo](https://keldenmourato.github.io/schoolnetwork/) |
 ---
 
 ## 📊 GitHub Stats
