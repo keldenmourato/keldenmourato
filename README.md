@@ -2,9 +2,21 @@
 
 # Hey There! I am Kelden Mourato 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelden-mourato-b87189330)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keldenmourato)
-<!--[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://kmourato.netlify.app)-->
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/kelden-mourato-b87189330)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+](https://www.instagram.com/keldenmourato)
+<!--[
+
+![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)
+
+](https://kmourato.netlify.app)-->
 
 </div>
 
@@ -47,13 +59,25 @@
 
 ---
 
+## 🌐 Demo Projects
+
+| Projeto | Demo |
+|---|---|
+| 🔧 Alcides Auto Clinic — Site institucional de uma oficina automotiva em Beira, Moçambique | [Ver Demo](https://keldenmourato.github.io/alcidesautoclinic/) |
+| 🎬 IMDB Website using OMDB API — Clone do IMDB com pesquisa de filmes e séries | [Ver Demo](https://leccmovies.netlify.app/) |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keldenmourato&theme=transparent)](https://git.io/streak-stats)
+[
+
+![GitHub Streak](https://streak-stats.demolab.com?user=keldenmourato&theme=transparent)
+
+](https://git.io/streak-stats)
 
 
 </div>
-
