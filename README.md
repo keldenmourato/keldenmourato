@@ -49,7 +49,7 @@
 
 ## 🌐 Demo Projects
 
-| Projeto | Demo |
+| Projecto | Demo |
 |---|---|
 | 🔧 Alcides Auto Clinic — Site institucional de uma oficina automotiva em Beira, Moçambique | [Ver Demo](https://keldenmourato.github.io/alcidesautoclinic/) |
 | 🎬 IMDB Website using OMDB API — Clone do IMDB com pesquisa de filmes e séries | [Ver Demo](https://leccmovies.netlify.app/) |
@@ -61,11 +61,7 @@
 <div align="center">
 
 
-[
-
-![GitHub Streak](https://streak-stats.demolab.com?user=keldenmourato&theme=transparent)
-
-](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=keldenmourato&theme=transparent)](https://git.io/streak-stats)
 
 
 </div>
